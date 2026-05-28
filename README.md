@@ -1,2 +1,1 @@
-#QuadraticEquationForm.cs
-MainForm
+Решение квадратного уравнения
