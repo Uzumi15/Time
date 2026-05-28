@@ -1,5 +1,3 @@
-Classes
+QuadraticEquation.cs - В папке Classes создаем пустой класс, который позже будет отвечать за расчет дискриминанта и корней.
 
 
-
-UserControls
